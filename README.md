@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Areen15
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Areen
+- 👀 I’m interested in Javascript.
+- 🌱 I’m currently learning advanced javascript.
+- 💞️ I’m looking to collaborate on javascript projects.
+- 📫 How to reach me => Areen.Rabieh@gmail.com
 
 <!---
 Areen15/Areen15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
